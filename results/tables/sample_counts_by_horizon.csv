@@ -1,0 +1,6 @@
+City,TotalDays,Train_Days,Test_Days,H1_Train_Valid,H1_Test_Valid,H3_Train_Valid,H3_Test_Valid
+Bengaluru,2009,1461,548,1363,547,1365,545
+Chennai,2009,1461,548,1337,547,1339,545
+Delhi,2009,1461,548,1451,547,1451,545
+Hyderabad,2006,1458,548,1333,547,1335,545
+Lucknow,2009,1461,548,1346,547,1348,545
