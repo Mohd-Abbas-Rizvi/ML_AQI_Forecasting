@@ -28,10 +28,13 @@ The project investigates three main questions:
    - pollution events,
    - lockdown periods,
    - and different cities.
- The main shift measure is:
+ 
+The main shift measure is:
+
 $$
-\text{Shift Penalty} = \frac{\text{MAE}_{\text{shifted}}}{\text{MAE}_{\text{reference}}}
+\text{Shift Penalty} = \frac{\text{MAE (shifted)}}{\text{MAE (reference)}}
 $$
+
 2. **Do nominal 90% prediction intervals remain calibrated under distribution shift?**
 
    Static split-conformal prediction is compared against adaptive rolling conformal recalibration.
