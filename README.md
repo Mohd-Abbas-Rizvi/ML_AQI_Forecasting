@@ -29,14 +29,14 @@ The project investigates three main questions:
    - lockdown periods,
    - and different cities.
 
-   1. The main shift measure is:
+1. The main shift measure is:
 
-$$
+\[
 \text{Shift Penalty}
 =
 \frac{\text{MAE}_{\text{shifted}}}
 {\text{MAE}_{\text{reference}}}
-$$
+\]
 
 2. **Do nominal 90% prediction intervals remain calibrated under distribution shift?**
 
